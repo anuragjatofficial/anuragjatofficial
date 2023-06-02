@@ -19,6 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragjatofficial&show_icons=true&locale=en&layout=compact" alt="anuragjatofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragjatofficial&exclude_days=Fri" alt="anuragjatofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragjatofficial&exclude_days=Thrus" alt="anuragjatofficial" /></p>
 
     
