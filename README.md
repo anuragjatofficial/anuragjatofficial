@@ -15,9 +15,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
     [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,github,postman,hibernate,html,springBoot,javaScirpt,css,vscode&theme=light)](https://skillicons.dev)
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragjatofficial&show_icons=true&locale=en&layout=compact" alt="anuragjatofficial" /></p>
 
