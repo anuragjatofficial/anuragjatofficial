@@ -18,7 +18,7 @@
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,github,postman,hibernate,html,js,css,tailwind,react,mongodb,ts,python,cs,dotnet,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,github,postman,hibernate,html,js,css,tailwind,react,mongodb,ts,python,cs,dotnet,angular,graphql&theme=light)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragjatofficial&show_icons=true&locale=en&layout=compact" alt="anuragjatofficial" /></p>
 
