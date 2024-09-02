@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjatofficial" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at [My Portfolio-website](https://anuragjatofficial.github.io/)
-- 💬 Ask me about **Java, JavaScript & SpringBoot**
+- 💬 Ask me about **Java, JavaScript, SpringBoot, Angular, React and ASP.NET**
 
 - 📫 How to reach me **anurag.1101140@gmail.com**
 
